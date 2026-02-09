@@ -1,0 +1,114 @@
+---
+title: Changelog
+description: Track the latest updates, improvements, and new features released in Shopopx.
+---
+
+## Recent Updates
+
+Stay informed about the latest enhancements to Shopopx's membership CRM and loyalty marketing platform. Each release brings improvements to customer engagement, loyalty programs, and performance for retail and restaurant brands.
+
+<Callout kind="info">
+  Subscribe to our changelog RSS feed or join the Shopopx Discord for instant notifications on new releases.
+</Callout>
+
+<Update label="2024-10-15" description="v2.1.0" tags={["feature", "improvement"]}>
+
+## New Features
+
+- Added real-time loyalty point syncing across in-store POS and online storefronts
+- Introduced customizable membership tiers with automated tier progression based on purchase history
+- New email campaign builder integrated with CRM data for personalized loyalty offers
+
+## Improvements
+
+- Enhanced dashboard analytics with loyalty program ROI calculations
+- Optimized API response times by 40% for high-volume membership queries
+
+## Bug Fixes
+
+- Fixed intermittent sync issues between mobile app check-ins and CRM records
+- Resolved duplicate reward redemption errors in multi-location setups
+
+</Update>
+
+<Update label="2024-09-20" description="v2.0.0" tags={["feature", "breaking"]}>
+
+## New Features
+
+- Launched unified CRM dashboard combining membership data, loyalty points, and marketing campaigns
+- Added webhook support for integrating loyalty events with external e-commerce platforms like Shopify
+- Introduced SMS notifications for membership milestones and reward expirations
+
+## Breaking Changes
+
+- Updated authentication endpoints: Replace `POST /v1/auth/login` with `POST /v2/auth/token`
+- Deprecated legacy loyalty API v1; migrate to v2 for new point accrual rules
+
+## Bug Fixes
+
+- Corrected membership export CSV formatting for large datasets
+- Fixed reward catalog caching issues causing outdated pricing displays
+
+</Update>
+
+<Update label="2024-08-10" description="v1.5.0" tags={["bugfix", "improvement"]}>
+
+## Improvements
+
+- Increased webhook payload limits to support detailed transaction data
+- Added bulk import for customer profiles with loyalty history mapping
+
+## Bug Fixes
+
+- Patched security vulnerability in API key validation (CVE-2024-XXXX)
+- Resolved dashboard loading delays during peak loyalty redemption hours
+
+</Update>
+
+## Version History Summary
+
+| Version | Date       | Key Highlights                  | Tags                  |
+|---------|------------|---------------------------------|-----------------------|
+| v2.1.0  | 2024-10-15 | Loyalty sync, tier progression | feature, improvement |
+| v2.0.0  | 2024-09-20 | Unified dashboard, webhooks    | feature, breaking    |
+| v1.5.0  | 2024-08-10 | Bulk import, security fixes    | bugfix, improvement  |
+
+## Upcoming Roadmap
+
+<Columns cols={3}>
+  <Card title="Q4 2024" icon="calendar" href="#">
+    AI-powered recommendation engine for personalized loyalty offers.
+  </Card>
+  <Card title="Q1 2025" icon="zap" href="#">
+    Native POS integrations for major retail systems.
+  </Card>
+  <Card title="Q2 2025" icon="shield" href="#">
+    Advanced fraud detection in reward redemptions.
+  </Card>
+</Columns>
+
+<Expandable title="Migration Guide for v2.0.0" default-open="false">
+
+If upgrading from v1.x, follow these steps:
+
+<Steps>
+  <Step title="Backup Data" icon="database">
+    Export all membership and loyalty data via the dashboard.
+  </Step>
+  <Step title="Update SDK" icon="download">
+    
+````bash
+npm install shopopx-sdk@latest
+````
+
+  </Step>
+  <Step title="Update Endpoints" icon="settings">
+    Replace deprecated endpoints in your integration code.
+  </Step>
+</Steps>
+
+</Expandable>
+
+<Callout kind="tip">
+  Always test updates in a staging environment first. Check the [full migration guide](https://docs.shopopx.com/migration) for detailed instructions.
+</Callout>
