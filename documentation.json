@@ -114,6 +114,15 @@
             "icon": "history"
           }
         ]
+      },
+      {
+        "tab": "Biolink CRM functions and features",
+        "pages": [
+          {
+            "title": "Bio-Link CRM System: Functions and Features",
+            "path": "biolink-crm-functions-and-features"
+          }
+        ]
       }
     ]
   }
