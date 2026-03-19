@@ -46,6 +46,17 @@
                 "icon": "plug"
               }
             ]
+          },
+          {
+            "group": "CRM Manual",
+            "icon": "monitor",
+            "pages": [
+              {
+                "title": "Bio-Link CRM System",
+                "path": "biolink-crm-functions-and-features",
+                "icon": "list"
+              }
+            ]
           }
         ]
       },
@@ -112,15 +123,6 @@
             "title": "Release History",
             "path": "changelog",
             "icon": "history"
-          }
-        ]
-      },
-      {
-        "tab": "Biolink CRM functions and features",
-        "pages": [
-          {
-            "title": "Bio-Link CRM System: Functions and Features",
-            "path": "biolink-crm-functions-and-features"
           }
         ]
       }
