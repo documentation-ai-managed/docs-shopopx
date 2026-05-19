@@ -62,14 +62,14 @@
             "group": "System Features & Operational Flow",
             "pages": [
               {
-                "title": "ShopOPx Loyalty Pass_Chinese",
-                "path": "shopopx-loyalty-pass-chinese",
-                "icon": "lucide-smartphone"
+                "title": "Loyalty Platform",
+                "path": "loyalty-platform",
+                "icon": "lucide-screen-share"
               },
               {
-                "title": "ShopOPx Loyalty Pass_English",
-                "path": "shopopx-loyalty-pass-english",
-                "icon": "lucide-smartphone"
+                "title": "Loyalty Pass",
+                "path": "loyalty-pass",
+                "icon": "id-card"
               }
             ]
           }
