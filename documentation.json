@@ -65,6 +65,36 @@
                 "title": "Dashboard Overview",
                 "path": "loyalty-pass-dashboard-overview",
                 "icon": "layout-dashboard"
+              },
+              {
+                "title": "Create Loyalty Pass",
+                "path": "create-loyalty-pass",
+                "icon": "circle-fading-plus"
+              },
+              {
+                "title": "Loyalty Pass Template",
+                "path": "loyalty-pass-template",
+                "icon": "copy-plus"
+              },
+              {
+                "title": "Manage & Monitor Individual Passes",
+                "path": "manage-monitor-individual-passes",
+                "icon": "lucide-tickets"
+              },
+              {
+                "title": "Distribute Loyalty Pass (URL)",
+                "path": "distribute-loyalty-pass-url",
+                "icon": "curly-braces"
+              },
+              {
+                "title": "Distribute Loyalty Pass (QR)",
+                "path": "distribute-loyalty-pass-qr",
+                "icon": "lucide-qr-code"
+              },
+              {
+                "title": "Add Members",
+                "path": "add-members",
+                "icon": "lucide-id-card-lanyard"
               }
             ]
           }
