@@ -59,17 +59,12 @@
             ]
           },
           {
-            "group": "System Features & Operational Flow",
+            "group": "Loyalty Pass",
             "pages": [
               {
-                "title": "Loyalty Platform",
-                "path": "loyalty-platform",
-                "icon": "lucide-screen-share"
-              },
-              {
-                "title": "Loyalty Pass",
-                "path": "loyalty-pass",
-                "icon": "id-card"
+                "title": "Dashboard Overview",
+                "path": "loyalty-pass-dashboard-overview",
+                "icon": "layout-dashboard"
               }
             ]
           }
