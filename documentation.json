@@ -57,6 +57,16 @@
                 "icon": "list"
               }
             ]
+          },
+          {
+            "group": "System Features & Operational Flow",
+            "pages": [
+              {
+                "title": "ShopOPx Loyalty Pass_English",
+                "path": "shopopx-loyalty-pass-english",
+                "icon": "lucide-smartphone"
+              }
+            ]
           }
         ]
       },
