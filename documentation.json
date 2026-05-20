@@ -204,9 +204,40 @@
                     "title": "Add Coupon",
                     "path": "add-coupon",
                     "icon": "ticket-plus"
+                  },
+                  {
+                    "title": "Manage Coupon",
+                    "path": "manage-coupon",
+                    "icon": "ticket-slash"
+                  },
+                  {
+                    "title": "Add Referral ",
+                    "path": "add-referral",
+                    "icon": "book-user"
+                  },
+                  {
+                    "title": "Manage Referral",
+                    "path": "manage-referral",
+                    "icon": "lucide-user-round-cog"
                   }
                 ],
                 "icon": "badge-check"
+              },
+              {
+                "group": "Loyalty App",
+                "pages": [
+                  {
+                    "title": "Add Post",
+                    "path": "add-post",
+                    "icon": "lucide-newspaper"
+                  },
+                  {
+                    "title": "Manage Post",
+                    "path": "manage-post",
+                    "icon": "clipboard-edit"
+                  }
+                ],
+                "icon": "lucide-tablet-smartphone"
               }
             ]
           }
