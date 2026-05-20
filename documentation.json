@@ -308,6 +308,47 @@
                   }
                 ],
                 "icon": "lucide-tablet-smartphone"
+              },
+              {
+                "title": "Create Automation",
+                "path": "create-automation",
+                "icon": "repeat2"
+              },
+              {
+                "title": "Manage Automation",
+                "path": "manage-automation",
+                "icon": "edit3-icon"
+              },
+              {
+                "title": "View Reports",
+                "path": "view-reports",
+                "icon": "file"
+              },
+              {
+                "title": "Add Products",
+                "path": "add-products",
+                "icon": "lucide-shopping-bag"
+              },
+              {
+                "title": "Manage Products",
+                "path": "manage-products",
+                "icon": "edit"
+              },
+              {
+                "group": "Settings",
+                "pages": [
+                  {
+                    "title": "Add User",
+                    "path": "add-user",
+                    "icon": "lucide-user-plus2"
+                  },
+                  {
+                    "title": "Manage User",
+                    "path": "manage-user",
+                    "icon": "lucide-user-round-pen"
+                  }
+                ],
+                "icon": "settings"
               }
             ]
           }
