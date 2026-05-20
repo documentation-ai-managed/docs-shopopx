@@ -158,6 +158,11 @@
                     "title": "Segments",
                     "path": "segments",
                     "icon": "group"
+                  },
+                  {
+                    "title": "View Segments",
+                    "path": "view-segments",
+                    "icon": "lucide-ungroup"
                   }
                 ]
               }
