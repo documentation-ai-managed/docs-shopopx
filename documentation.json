@@ -235,6 +235,76 @@
                     "title": "Manage Post",
                     "path": "manage-post",
                     "icon": "clipboard-edit"
+                  },
+                  {
+                    "title": "Add App Related Content",
+                    "path": "add-app-related-content",
+                    "icon": "badge-info"
+                  },
+                  {
+                    "title": "Manage App Related Content",
+                    "path": "manage-app-related-content",
+                    "icon": "edit"
+                  },
+                  {
+                    "title": "Add Banner Image",
+                    "path": "add-banner-image",
+                    "icon": "image-plus"
+                  },
+                  {
+                    "title": "Manage Banner Image",
+                    "path": "manage-banner-image",
+                    "icon": "image-upscale"
+                  },
+                  {
+                    "title": "Pop Up Banner",
+                    "path": "pop-up-banner",
+                    "icon": "lucide-picture-in-picture2"
+                  },
+                  {
+                    "title": "Manage Pop Up Banner",
+                    "path": "manage-pop-up-banner",
+                    "icon": "lucide-picture-in-picture"
+                  },
+                  {
+                    "title": "Add Membership Card",
+                    "path": "add-membership-card",
+                    "icon": "lucide-id-card"
+                  },
+                  {
+                    "title": "Manage Membership Card",
+                    "path": "manage-membership-card",
+                    "icon": "lucide-credit-card"
+                  },
+                  {
+                    "title": "Add Notifications",
+                    "path": "add-notifications",
+                    "icon": "alert-circle"
+                  },
+                  {
+                    "title": "Manage Notifications",
+                    "path": "manage-notifications",
+                    "icon": "edit2"
+                  },
+                  {
+                    "title": "Shop",
+                    "path": "shop",
+                    "icon": "lucide-store"
+                  },
+                  {
+                    "title": "Manage Shop",
+                    "path": "manage-shop",
+                    "icon": "location-edit"
+                  },
+                  {
+                    "title": "Set Up Games",
+                    "path": "set-up-games",
+                    "icon": "gamepad2"
+                  },
+                  {
+                    "title": "Manage Games",
+                    "path": "manage-games",
+                    "icon": "lucide-folder-edit"
                   }
                 ],
                 "icon": "lucide-tablet-smartphone"
