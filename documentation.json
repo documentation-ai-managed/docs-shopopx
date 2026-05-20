@@ -93,8 +93,8 @@
               },
               {
                 "title": "Add Members",
-                "path": "add-members",
-                "icon": "lucide-id-card-lanyard"
+                "path": "loyalty-pass-add-members",
+                "icon": "id-card"
               },
               {
                 "title": "Broadcast Message",
@@ -130,6 +130,11 @@
                 "title": "Dashboard Overview",
                 "path": "loyalty-platform-dashboard-overview",
                 "icon": "layout-dashboard-icon"
+              },
+              {
+                "title": "Add Members",
+                "path": "loyalty-platform-add-members",
+                "icon": "id-card"
               }
             ]
           }
