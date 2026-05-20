@@ -59,7 +59,7 @@
             ]
           },
           {
-            "group": "Loyalty Pass",
+            "group": "Loyalty Pass Manual",
             "pages": [
               {
                 "title": "Dashboard Overview",
@@ -67,34 +67,69 @@
                 "icon": "layout-dashboard"
               },
               {
-                "title": "Create Loyalty Pass",
-                "path": "create-loyalty-pass",
+                "title": "Loyalty Pass Creation",
+                "path": "loyalty-pass-creation",
                 "icon": "circle-fading-plus"
               },
               {
-                "title": "Loyalty Pass Template",
-                "path": "loyalty-pass-template",
+                "title": "Template Pass Creation",
+                "path": "template-pass-creation",
                 "icon": "copy-plus"
               },
               {
-                "title": "Manage & Monitor Individual Passes",
-                "path": "manage-monitor-individual-passes",
+                "title": "Pass Performance & Management",
+                "path": "pass-performance-management",
                 "icon": "lucide-tickets"
               },
               {
-                "title": "Distribute Loyalty Pass (URL)",
-                "path": "distribute-loyalty-pass-url",
+                "title": "Pass Distribution (URL)",
+                "path": "pass-distribution-url",
                 "icon": "curly-braces"
               },
               {
-                "title": "Distribute Loyalty Pass (QR)",
-                "path": "distribute-loyalty-pass-qr",
+                "title": "Pass Distribution (QR)",
+                "path": "pass-distribution-qr",
                 "icon": "lucide-qr-code"
               },
               {
                 "title": "Add Members",
                 "path": "add-members",
                 "icon": "lucide-id-card-lanyard"
+              },
+              {
+                "title": "Broadcast Message",
+                "path": "broadcast-message",
+                "icon": "lucide-message-square-share"
+              },
+              {
+                "title": "Campaigns",
+                "path": "campaigns",
+                "icon": "lucide-message-square-plus"
+              },
+              {
+                "title": "Analytics",
+                "path": "analytics",
+                "icon": "activity"
+              },
+              {
+                "title": "Customer Activity",
+                "path": "customer-activity",
+                "icon": "chart-column-stacked"
+              },
+              {
+                "title": "Edit Customer Details",
+                "path": "edit-customer-details",
+                "icon": "edit"
+              }
+            ]
+          },
+          {
+            "group": "Loyalty Platform Manual",
+            "pages": [
+              {
+                "title": "Dashboard Overview",
+                "path": "loyalty-platform-dashboard-overview",
+                "icon": "layout-dashboard-icon"
               }
             ]
           }
