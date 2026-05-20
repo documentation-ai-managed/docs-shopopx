@@ -153,6 +153,11 @@
                     "title": "Archive Members",
                     "path": "archive-members",
                     "icon": "archive"
+                  },
+                  {
+                    "title": "Segments",
+                    "path": "segments",
+                    "icon": "group"
                   }
                 ]
               }
