@@ -155,16 +155,53 @@
                     "icon": "archive"
                   },
                   {
-                    "title": "Segments",
-                    "path": "segments",
+                    "title": "Add Segments",
+                    "path": "add-segments",
                     "icon": "group"
                   },
                   {
                     "title": "View Segments",
                     "path": "view-segments",
                     "icon": "lucide-ungroup"
+                  },
+                  {
+                    "title": "Add New Leads",
+                    "path": "add-new-leads",
+                    "icon": "lucide-file-user"
+                  },
+                  {
+                    "title": "Manage Leads",
+                    "path": "manage-leads",
+                    "icon": "file-edit"
                   }
-                ]
+                ],
+                "icon": "lucide-user2"
+              },
+              {
+                "group": "Incentive",
+                "pages": [
+                  {
+                    "title": "Set Up Points",
+                    "path": "set-up-points",
+                    "icon": "lucide-star"
+                  },
+                  {
+                    "title": "Track Points",
+                    "path": "track-points",
+                    "icon": "lucide-star-half"
+                  },
+                  {
+                    "title": "Add Stamp Card",
+                    "path": "add-stamp-card",
+                    "icon": "lucide-stamp"
+                  },
+                  {
+                    "title": "Manage Stamp Card",
+                    "path": "manage-stamp-card",
+                    "icon": "edit3"
+                  }
+                ],
+                "icon": "badge-check"
               }
             ]
           }
