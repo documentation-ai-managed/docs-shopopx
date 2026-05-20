@@ -94,7 +94,7 @@
               {
                 "title": "Add Members",
                 "path": "loyalty-pass-add-members",
-                "icon": "id-card"
+                "icon": "lucide-user-plus"
               },
               {
                 "title": "Broadcast Message",
@@ -119,7 +119,7 @@
               {
                 "title": "Edit Customer Details",
                 "path": "edit-customer-details",
-                "icon": "edit"
+                "icon": "lucide-user-pen"
               }
             ]
           },
@@ -132,14 +132,29 @@
                 "icon": "layout-dashboard-icon"
               },
               {
-                "title": "Add Members",
-                "path": "loyalty-platform-add-members",
-                "icon": "id-card"
-              },
-              {
-                "title": "Import Members",
-                "path": "import-members",
-                "icon": "upload"
+                "group": "Members",
+                "pages": [
+                  {
+                    "title": "Add Members",
+                    "path": "loyalty-platform-add-members",
+                    "icon": "lucide-user-plus"
+                  },
+                  {
+                    "title": "Import Members",
+                    "path": "import-members",
+                    "icon": "upload"
+                  },
+                  {
+                    "title": "Members Details",
+                    "path": "members-details",
+                    "icon": "lucide-user-pen"
+                  },
+                  {
+                    "title": "Archive Members",
+                    "path": "archive-members",
+                    "icon": "archive"
+                  }
+                ]
               }
             ]
           }
