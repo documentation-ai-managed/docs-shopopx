@@ -135,6 +135,11 @@
                 "title": "Add Members",
                 "path": "loyalty-platform-add-members",
                 "icon": "id-card"
+              },
+              {
+                "title": "Import Members",
+                "path": "import-members",
+                "icon": "upload"
               }
             ]
           }
