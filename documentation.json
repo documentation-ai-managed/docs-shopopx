@@ -199,6 +199,11 @@
                     "title": "Manage Stamp Card",
                     "path": "manage-stamp-card",
                     "icon": "edit3"
+                  },
+                  {
+                    "title": "Add Coupon",
+                    "path": "add-coupon",
+                    "icon": "ticket-plus"
                   }
                 ],
                 "icon": "badge-check"
