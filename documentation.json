@@ -416,6 +416,67 @@
                 "icon": "settings"
               }
             ]
+          },
+          {
+            "group": "Loyalty Platform 操作手冊",
+            "pages": [
+              {
+                "title": "首页概覽",
+                "path": "loyalty-platform-dashboard-overview-tc",
+                "icon": "layout-dashboard"
+              },
+              {
+                "group": "會員管理",
+                "pages": [
+                  {
+                    "title": "新增會員",
+                    "path": "loyalty-platform-add-members-tc",
+                    "icon": "lucide-user-plus"
+                  },
+                  {
+                    "title": "導入會員",
+                    "path": "import-members-tc",
+                    "icon": "upload-icon"
+                  },
+                  {
+                    "title": "會員列表",
+                    "path": "members-details-tc",
+                    "icon": "lucide-user-round-pen"
+                  },
+                  {
+                    "title": "封存會員",
+                    "path": "archive-members-tc",
+                    "icon": "archive"
+                  },
+                  {
+                    "title": "加入特定市場區隔",
+                    "path": "add-segments-tc",
+                    "icon": "group"
+                  },
+                  {
+                    "title": "查看市場區隔",
+                    "path": "view-segments-tc",
+                    "icon": "lucide-ungroup"
+                  },
+                  {
+                    "title": "新增潛在客戶",
+                    "path": "add-new-leads-tc",
+                    "icon": "file-user"
+                  },
+                  {
+                    "title": "管理潛在客戶",
+                    "path": "manage-leads-tc",
+                    "icon": "file-edit"
+                  }
+                ],
+                "icon": "lucide-user2"
+              },
+              {
+                "group": "獎勵",
+                "pages": [],
+                "icon": "badge-check"
+              }
+            ]
           }
         ]
       },
