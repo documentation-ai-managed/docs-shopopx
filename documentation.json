@@ -473,7 +473,28 @@
               },
               {
                 "group": "獎勵",
-                "pages": [],
+                "pages": [
+                  {
+                    "title": "設定積分",
+                    "path": "set-up-points-tc",
+                    "icon": "lucide-star"
+                  },
+                  {
+                    "title": "追蹤積分",
+                    "path": "track-points-tc",
+                    "icon": "lucide-star-half"
+                  },
+                  {
+                    "title": "新增印花",
+                    "path": "add-stamp-card-tc",
+                    "icon": "lucide-stamp"
+                  },
+                  {
+                    "title": "管理印花",
+                    "path": "manage-stamp-card-tc",
+                    "icon": "lucide-edit3"
+                  }
+                ],
                 "icon": "badge-check"
               }
             ]
