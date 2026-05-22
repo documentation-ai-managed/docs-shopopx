@@ -559,9 +559,59 @@
                     "title": "管理彈出式橫幅",
                     "path": "manage-pop-up-banner-tc",
                     "icon": "picture-in-picture"
+                  },
+                  {
+                    "title": "新增會員卡",
+                    "path": "add-membership-card-tc",
+                    "icon": "id-card-icon"
+                  },
+                  {
+                    "title": "管理會員卡",
+                    "path": "manage-membership-card-tc",
+                    "icon": "credit-card"
+                  },
+                  {
+                    "title": "新增通知",
+                    "path": "add-notifications-tc",
+                    "icon": "alert-circle"
+                  },
+                  {
+                    "title": "管理通知",
+                    "path": "manage-notifications-tc",
+                    "icon": "edit2"
+                  },
+                  {
+                    "title": "新增店鋪",
+                    "path": "add-shop-tc",
+                    "icon": "lucide-store"
+                  },
+                  {
+                    "title": "管理店鋪",
+                    "path": "manage-shop-tc",
+                    "icon": "lucide-location-edit"
+                  },
+                  {
+                    "title": "設定遊戲",
+                    "path": "set-up-games-tc",
+                    "icon": "gamepad2"
+                  },
+                  {
+                    "title": "管理遊戲",
+                    "path": "manage-games-tc",
+                    "icon": "folder-edit"
                   }
                 ],
                 "icon": "tablet-smartphone"
+              },
+              {
+                "title": "建立自動化",
+                "path": "create-automation-tc",
+                "icon": "lucide-repeat2"
+              },
+              {
+                "title": "管理自動化",
+                "path": "manage-automation-tc",
+                "icon": "edit3-icon"
               }
             ]
           }
