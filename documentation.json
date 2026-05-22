@@ -493,9 +493,75 @@
                     "title": "管理印花",
                     "path": "manage-stamp-card-tc",
                     "icon": "lucide-edit3"
+                  },
+                  {
+                    "title": "新增優惠券",
+                    "path": "add-coupon-tc",
+                    "icon": "lucide-ticket-plus"
+                  },
+                  {
+                    "title": "管理優惠券",
+                    "path": "manage coupon",
+                    "icon": "ticket-slash"
+                  },
+                  {
+                    "title": "新增推薦",
+                    "path": "add-referral-tc",
+                    "icon": "book-user"
+                  },
+                  {
+                    "title": "管理推薦計畫",
+                    "path": "manage-referral-tc",
+                    "icon": "lucide-user-round-cog"
                   }
                 ],
                 "icon": "badge-check"
+              },
+              {
+                "group": "會員應用程式",
+                "pages": [
+                  {
+                    "title": "新增帖文",
+                    "path": "add-post-tc",
+                    "icon": "lucide-newspaper"
+                  },
+                  {
+                    "title": "管理帖文",
+                    "path": "manage-post-tc",
+                    "icon": "clipboard-edit-icon"
+                  },
+                  {
+                    "title": "添加應用相關內容",
+                    "path": "add-app-related-content-tc",
+                    "icon": "badge-info-icon"
+                  },
+                  {
+                    "title": "管理應用相關內容",
+                    "path": "manage-app-related-content-tc",
+                    "icon": "edit"
+                  },
+                  {
+                    "title": "新增橫幅圖片",
+                    "path": "add-banner-image-tc",
+                    "icon": "image-plus"
+                  },
+                  {
+                    "title": "管理橫幅圖片",
+                    "path": "manage-banner-image-tc",
+                    "icon": "image-upscale-icon"
+                  },
+                  {
+                    "title": "彈出式橫幅",
+                    "path": "pop-up-banner-tc",
+                    "icon": "lucide-picture-in-picture2"
+                  },
+                  {
+                    "title": "管理彈出式橫幅",
+                    "path": "manage-pop-up-banner-tc",
+                    "icon": "picture-in-picture"
+                  }
+                ],
+                "icon": "tablet-smartphone"
               }
             ]
           }
