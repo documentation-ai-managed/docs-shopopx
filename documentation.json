@@ -612,6 +612,37 @@
                 "title": "管理自動化",
                 "path": "manage-automation-tc",
                 "icon": "edit3-icon"
+              },
+              {
+                "title": "查看報告",
+                "path": "view-reports-tc",
+                "icon": "file"
+              },
+              {
+                "title": "新增商品",
+                "path": "add-products-tc",
+                "icon": "shopping-bag"
+              },
+              {
+                "title": "管理商品",
+                "path": "manage-products-tc",
+                "icon": "edit-icon"
+              },
+              {
+                "group": "設定",
+                "pages": [
+                  {
+                    "title": "新增用戶",
+                    "path": "add-user-tc",
+                    "icon": "lucide-user-plus2"
+                  },
+                  {
+                    "title": "管理用戶",
+                    "path": "manage-user-tc",
+                    "icon": "lucide-user-round-pen"
+                  }
+                ],
+                "icon": "settings"
               }
             ]
           }
