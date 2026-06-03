@@ -132,27 +132,27 @@
                 "icon": "layout-dashboard"
               },
               {
-                "title": "建立忠誠卡",
+                "title": "建立會員獎賞卡",
                 "path": "loyalty-pass-creation-tc",
                 "icon": "circle-fading-plus"
               },
               {
-                "title": "忠誠卡範本",
+                "title": "會員獎賞卡範本",
                 "path": "template-pass-creation-tc",
                 "icon": "copy-plus"
               },
               {
-                "title": "忠誠卡詳情",
+                "title": "會員獎賞卡詳情",
                 "path": "pass-performance-management-tc",
                 "icon": "lucide-tickets"
               },
               {
-                "title": "分發忠誠卡 (網址)",
+                "title": "分發會員獎賞卡 (網址)",
                 "path": "pass-distribution-url-tc",
                 "icon": "curly-braces"
               },
               {
-                "title": "分發忠誠卡 (二維碼)",
+                "title": "分發會員獎賞卡 (二維碼)",
                 "path": "pass-distribution-qr-tc",
                 "icon": "lucide-qr-code"
               },
